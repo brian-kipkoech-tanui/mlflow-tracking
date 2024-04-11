@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/709154542941721757/4d260d0c1f5a49e1aae0e11a46d0464f/artifacts
+end_time: 1712840322386
+entry_point_name: ''
+experiment_id: '709154542941721757'
+lifecycle_stage: active
+run_id: 4d260d0c1f5a49e1aae0e11a46d0464f
+run_name: GBR_Regression-V2024-04-11-15-58-b4873e
+run_uuid: 4d260d0c1f5a49e1aae0e11a46d0464f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712840302366
+status: 3
+tags: []
+user_id: HP
