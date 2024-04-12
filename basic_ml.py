@@ -26,8 +26,8 @@ print("Run name: ", run_name_model_version)
 
 def load_data():
     try:
-       train_data = pd.read_csv(r"C:\Users\HP\Desktop\DS Adele\Data\Train_data.csv")
-       test_data = pd.read_csv(r"C:\Users\HP\Desktop\DS Adele\Data\validation.csv")
+       train_data = pd.read_csv("https://github.com/brian-kipkoech-tanui/galaxies-wellbeing/blob/master/Data/Train_data.csv")
+       test_data = pd.read_csv("https://github.com/brian-kipkoech-tanui/galaxies-wellbeing/blob/master/Data/Validation.csv")
        return train_data, test_data
     except Exception as e:
        raise e
